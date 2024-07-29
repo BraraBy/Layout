@@ -160,7 +160,7 @@ body{
 
 .dashblock1{
     display: inline-block;
-    width: 420px;
+    width: 20%;
     height: 105px;
     margin-left: 35px;
     border-radius: 5px;
@@ -169,27 +169,27 @@ body{
 }
 .dashblock2{
     display: inline-block;
-    width: 420px;
+    width: 20%;
     height: 105px;
-    margin-left: 35px;
+    margin-left: 20px;
     border-radius: 5px;
     border-left: 5px solid #1cc88a;
     box-shadow:1px 1px 10px 1px rgba(110, 110, 110, 0.329);
 }
 .dashblock3{
     display: inline-block;
-    width: 420px;
+    width: 20%;
     height: 105px;
-    margin-left: 35px;
+    margin-left: 20px;
     border-radius: 5px;
     border-left: 5px solid #36b9cc;
     box-shadow:1px 1px 10px 1px rgba(110, 110, 110, 0.329);
 }
 .dashblock4{
     display: inline-block;
-    width: 420px;
+    width: 20%;
     height: 105px;
-    margin-left: 35px;
+    margin-left: 20px;
     border-radius: 5px;
     border-left: 5px solid #f6c23e;
     box-shadow:1px 1px 10px 1px rgba(110, 110, 110, 0.329);
@@ -247,7 +247,7 @@ body{
 
 .Overview{
     float: left;
-    width: 1200px;
+    width: 52vw;
     height: 520px;
     margin-left: 35px;
     margin-top: 25px;
@@ -270,7 +270,7 @@ body{
 
 .RS{
     float: left;
-    width: 580px;
+    width: 30vw;
     height: 520px;
     margin-left: 35px;
     margin-top: 25px;
